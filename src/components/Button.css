@@ -1,0 +1,20 @@
+button{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 20px;
+  width: 15%;
+  /* height: 80%; */
+  font-size: 50px;
+  border-radius: 10px;
+}
+
+button:active{
+  background-color: #ddd;
+}
+
+.reset{
+  width: 15%;
+  font-size: 20px;
+}
